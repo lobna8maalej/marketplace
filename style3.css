@@ -1,0 +1,64 @@
+.paragraph {
+
+    color: blue;
+  font-size: 18px;
+
+}
+
+
+h1{
+
+    color: red;
+}
+
+div {
+
+    background-color: #ffff99; 
+    padding: 20px;             
+    border: 1px solid #211919;   
+    margin: 30px;
+}
+    
+    .p_2 {
+    font-weight: bold;   
+    font-style: italic;  
+}
+.vert{
+    color: green;
+}
+
+li {
+
+    font-weight: normal;
+    list-style: none;
+
+}
+
+a {
+    color: green;      
+    text-decoration: none; 
+}
+
+a:hover {
+    color: orange;     
+}
+
+.education-block {
+    width: 500px;               
+    margin: 0 auto;             
+    padding: 20px;              
+    border: 2px solid black;    
+    text-align: center;         
+    background-color: #de0c17;  
+    border-radius: 8px;        
+}
+
+.education-block {
+    max-width: 500px;           
+    margin: 0 auto;             
+    text-align: center;         
+    border: 2px solid black;   
+    padding: 20px;              
+    background-color: #7a4ef1;  
+    border-radius: 8px;        
+}
