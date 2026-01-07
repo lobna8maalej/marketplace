@@ -1,0 +1,53 @@
+.name{
+
+  border: 20px solid;
+  justify-content: center;
+  display: flex;
+  gap: 80px;
+  color: rgb(100, 8, 186);
+  background-color: aqua;
+ padding: 10px;
+ border-radius: 20px;
+ 
+}
+
+.about{
+  border: 20px solid;
+ background-color: rgb(227, 227, 11);
+color: red;
+font-size: 44px;
+}
+
+ul{
+ list-style: none;
+ padding: 0;
+}
+
+li{
+ font-size: 50px;
+margin-bottom: 8px;
+background-color: rosybrown;
+
+}
+label{
+  font-size: 22px;
+}
+
+input{
+  font-size: 30px;
+}
+button{
+  font-size: 44px;
+}
+
+footer{
+  font-size: 32px;
+  border: 30px;
+ background-color: green;
+}
+body{
+color: rgb(233, 209, 209);
+background-color: rgb(73, 54, 222);
+font-family: Arial, Helvetica, sans-serif;
+font-size: 18px;
+}
